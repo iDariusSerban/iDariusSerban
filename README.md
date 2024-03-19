@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java, MySQL**
 
+- 👯 I’m looking to collaborate on **backend development**
+
 - 📫 How to reach me **idariusserban@gmail.com**
 
 
