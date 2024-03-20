@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darius</h1>
 <h3 align="center">A passionate backend developer from Cluj-Napoca</h3>
 
-- 🔭 I’m currently working on [Dance contest manager](https://github.com/iDariusSerban/dance-contest-manager)
+- 🔭 I’m currently working on [Dance Contest Manager](https://github.com/iDariusSerban/dance-contest-manager)
 
 - 🌱 I’m currently learning **Spring Boot, Java, MySQL**
 
